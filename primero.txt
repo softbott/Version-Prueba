@@ -1,7 +1,0 @@
-este
-es
-el primer
-archivo que vamos
-Creo que puedes encontrar un archivo
-ESTA ES UNA LINEA ADICIONAL QUE 
-PERTENECE AL BRANCH PROHIBIDO
